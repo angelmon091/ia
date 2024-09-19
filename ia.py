@@ -8,7 +8,7 @@ import requests
 
 import streamlit as st
 
-st.title("ASISTENTE TURISTICO DEL ALEXANDER :)")
+st.title("ASISTENTE TURISTICO DEL CHENTE :)")
 
 if "messages" not in st.session_state:
      st.session_state.messages = []
